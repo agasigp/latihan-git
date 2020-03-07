@@ -1,1 +1,3 @@
 isi file 1 seperti ini
+
+lagi latihan git nih di kantor
