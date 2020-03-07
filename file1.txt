@@ -2,3 +2,6 @@ isi file 1 seperti ini (versi edit-file branch)
 
 lagi latihan git nih di kantor (versi master)
 edit file 1
+
+test
+test test
